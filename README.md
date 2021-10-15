@@ -35,7 +35,7 @@
 
   ## Usage 
   The user should run the following commands
-  
+
   `mysql -u root -p`
 
 The user must enter their mysql password when promted
@@ -51,7 +51,7 @@ The user must enter their mysql password when promted
  
 [GET ALL, GET BY ID Demo Link](https://drive.google.com/file/d/1Mv2l2perhFUnzWvRp6rkTozHyHsMDps4/view?usp=sharing) 
 
-[DELETE, PUT, POST Demo Link](https://drive.google.com/file/d/15iH-J4cqtFqDMtSiFJyKINcTH5pgPBHO/view?usp=sharing)
+[DELETE, PUT, POST Demo Link](https://drive.google.com/file/d/17rckbtWRd7XmGonWYi9C1GNEc2XAWr8I/view?usp=sharing)
 
 [Git Hub Repo Link](https://github.com/Kbentley8/E-Commerce-Back-End)
 
