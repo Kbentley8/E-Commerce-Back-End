@@ -21,7 +21,7 @@
   * [Questions](#questions)
   
   ## Installation 
-  The user should first clone the repository to their local computer from GitHub and then download  Node.js, Express.js, MySQL, MySQL 2, and dotenv. 
+  The user should first clone the repository to their local computer from GitHub and then download  Node.js, Express.js, Sequelize, MySQL, MySQL 2, and dotenv. 
 
   The user should run the following commands
 
