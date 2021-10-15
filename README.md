@@ -35,9 +35,10 @@
 
   ## Usage 
   The user should run the following commands
+  
   `mysql -u root -p`
 
-Enter PW when promted
+The user must enter their mysql password when promted
 
 `source db/schema.sql`
 
