@@ -1,4 +1,4 @@
-const { Product } = require('../modelss');
+const { Product } = require('../models');
 
 const productData = [
   {
