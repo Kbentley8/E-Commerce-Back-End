@@ -2,16 +2,11 @@
   ![Github MIT license](https://img.shields.io/badge/license-MIT-darkred)
   
    ![Javascript badge](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
-
+   
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
   
-<p align= "left"
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/Sequelize-blue"  />
-    <img src="https://img.shields.io/badge/mySQL-blue"  />
-    <img src="https://img.shields.io/badge/dotenv-green" />
-</p>
+
    
 
   ## Description 
