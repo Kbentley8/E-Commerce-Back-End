@@ -30,7 +30,7 @@
 
   ## Usage 
   The user should run the following commands
-  
+
   `npm init`
 
 `npm install mysql2`
@@ -40,7 +40,7 @@
 `npm install dotenv`
  
  
-[GET ALL, GET BY ID Demo Link](https://drive.google.com/file/d/1hW9Q9AjrC9TQgGZPmGUjQr1ffnsyI2WF/view?usp=sharing) 
+[GET ALL, GET BY ID Demo Link](https://drive.google.com/file/d/1Mv2l2perhFUnzWvRp6rkTozHyHsMDps4/view?usp=sharing) 
 
 [DELETE, PUT, POST Demo Link](https://drive.google.com/file/d/1hW9Q9AjrC9TQgGZPmGUjQr1ffnsyI2WF/view?usp=sharing)
 
