@@ -23,7 +23,6 @@
   ## Installation 
   The user should first clone the repository to their local computer from GitHub and then download  Node.js, Express.js, MySQL, MySQL 2, and dotenv. 
 
-  ## Usage 
   The user should run the following commands
 
   `npm init`
@@ -33,6 +32,20 @@
 `npm install sequelize`
 
 `npm install dotenv`
+
+  ## Usage 
+  The user should run the following commands
+  `mysql -u root -p`
+
+Enter PW when promted
+
+`source db/schema.sql`
+
+`quit`
+
+`npm run seed`
+  
+`npm start`
  
  
 [GET ALL, GET BY ID Demo Link](https://drive.google.com/file/d/1Mv2l2perhFUnzWvRp6rkTozHyHsMDps4/view?usp=sharing) 
