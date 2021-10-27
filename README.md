@@ -49,9 +49,9 @@ The user must enter their mysql password when promted
 `npm start`
  
  
-[GET ALL, GET BY ID Demo Link](https://drive.google.com/file/d/1Mv2l2perhFUnzWvRp6rkTozHyHsMDps4/view?usp=sharing) 
+[Demo Link](https://drive.google.com/file/d/1clHHix57ld1xVRFihaVLCxQMlRXwy6db/view?usp=sharing) 
 
-[DELETE, PUT, POST Demo Link](https://drive.google.com/file/d/17rckbtWRd7XmGonWYi9C1GNEc2XAWr8I/view?usp=sharing)
+
 
 [Git Hub Repo Link](https://github.com/Kbentley8/E-Commerce-Back-End)
 
